@@ -1,1 +1,1 @@
-# Are-the-given-strings-anagrams-
+# Strings-anagrams
